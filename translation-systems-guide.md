@@ -6,9 +6,9 @@ Event information and registration: http://openandinclusiveresearch.org/
 
 Open and Inclusive Access to Research (OIAR). Organised between partners in South and North America
 
-An invitation to participate in the workshop and share information and ideas on translation workflows and ideas. The objective of the workshop is to create an outline of key issues in translation systems to aid Open Science communites to better coordinate efforts and put in place connected infrastructures. After the workshop GenR wil produce a short guide to the issues involved as part of its Open Science Guides programme. https://genr.eu/wp/guide-needed/
+An invitation to participate in a workshop for share ideas on translation workflows and ideas in Open Science publishing. The objective of the workshop is to create an outline of key issues in translation systems to aid Open Science communities to better coordinate efforts and put in place connected infrastructures. After the workshop GenR wil produce a short guide to the issues involved as part of its Open Science Guides programme. https://genr.eu/wp/guide-needed/
 
-A workshop to bring together people working on translation systems in Open Science. The purpose is to have an initial brainstorming session as a foundation of later work to create a getting started guide to translation systems. Example systems and groups are: 
+Example systems and groups are: 
 
    - CEVOpen using Wikidata https://github.com/petermr/CEVOpen/wiki
    - Translate Science - https://translatescience.org/
