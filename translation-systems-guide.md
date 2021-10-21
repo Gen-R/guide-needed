@@ -18,4 +18,4 @@ Contact: Simon Worthington simon.worthington@tib.eu
 
 The workshop is a cooperation between FORCE11 and partners: GenR (TIB), CEVOpen https://github.com/petermr/CEVOpen/wiki
 
-The overall event is organised by http://openandinclusiveresearch.org/aboutOIAR/ and sponosored by the following http://openandinclusiveresearch.org/sponsors/ 
+The overall event is organised by http://openandinclusiveresearch.org/aboutOIAR/ and sponsored by the following http://openandinclusiveresearch.org/sponsors/ 
