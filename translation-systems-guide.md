@@ -19,7 +19,7 @@ dashes’ (The Turing Way Community 2020) approach — as part of its Open Scien
 Guides programme [[guide needed](https://genr.eu/wp/guide-needed/)] See:
 <https://genr.eu/wp/guide-needed/>
 
-![guide needed / GenR](media/da045587306a53bfeb18c3b17574adef.png)
+![guide needed / GenR](guide_needed-1200x675b.png)
 
 The following groups will present/attend the workshop:
 
