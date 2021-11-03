@@ -3,13 +3,15 @@
 An invitation to participate in a workshop for share ideas on translation
 workflows in open science publishing.
 
-8-11 November 2021, online, 14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00
+Workshop date and time: 8 November 2021, online, 14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00
 Toronto)
 
 Register here: <http://openandinclusiveresearch.org/register/>
 
 Taking place as part of the following event Open and Inclusive Access to
 Research (OIAR). Organised between partners in South and North America.
+
+Overall event: 8-11 November.
 
 The objective of the workshop is to create an outline of key issues in
 translation systems to aid Open Science communities to better coordinate efforts
