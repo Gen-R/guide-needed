@@ -64,7 +64,11 @@ There is an open pad for the workshop where you can find working notes. If you
 are interested in taking part in the follow up Book Dash you can keep up-to-date
 on the GenR forum - <https://github.com/Gen-R/organisation/discussions>
 
-Pad: Workshop and Book Dash info:
+Pad: Workshop and Book Dash info: https://demo.hedgedoc.org/UB-o86LTTWmxxTN_Dc6d3Q
+
+![First Pull Request / The Turing Way](https://the-turing-way.netlify.app/_images/first-pull-request.png)
+
+Fig. 100 Making your first pull request on GitHub. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.¶
 
 Contact: Simon Worthington, \@mrchristian99 <simon.worthington@tib.eu>
 
