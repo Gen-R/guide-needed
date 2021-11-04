@@ -47,8 +47,8 @@ The following groups will present/attend the workshop:
 -   AfricArXiv and Masakhane: Decolonise Science –
     <https://github.com/AfricArxiv/decolonise-science>
 
-    Recently, as a pilot, one hundred and eighty articles from AfricaArxiv have
-    been translated from French or English into six diverse African languages:
+    Recently, as a pilot, one hundred and eighty articles from AfricaArxiv are going to be translated 
+    from French or English into six diverse African languages:
     isiZulu, Northern Sotho, Yoruba, Hausa, Luganda, and Amharic.
 
 -   Single Source Publishing Community (SSPC):
