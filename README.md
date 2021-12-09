@@ -15,7 +15,7 @@ guides for good open science practice. The programme is closely aligned with the
 Open Science Lab’s (TIB) NextGen Book service — which is sharing its know-how
 and technology with the GenR community.
 
-Have a question you can join the [discussion on GitHub](https://github.com/Gen-R/guide-needed/discussions) or get hold of Genr on Matrix Chat <https://matrix.to/#/#genr:matrix.org>
+Have a question you can join the [discussion on GitHub](https://github.com/Gen-R/guide-needed/discussions) or get hold of Genr on Matrix Chat <https://matrix.to/#/#genr:matrix.org> or email simon@genr.eu
 
 Blogpost: <https://genr.eu/wp/guide-needed/>
 
