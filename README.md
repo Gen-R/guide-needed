@@ -17,7 +17,7 @@ and technology with the GenR community.
 
 Blogpost: <https://genr.eu/wp/guide-needed/>
 
-Discussion: <https://github.com/Gen-R/organisation/discussions>
+Discussion: <https://github.com/Gen-R/guide-needed/discussions>
 
 ## Method objectives
 
@@ -78,7 +78,7 @@ Then rinse repeat the following as guides grow, change, and evolve.
 
 1.  **Announce:** Make an announcement and call for contribution for a guide in
     our ‘request a guide / offer a guide’ section:
-    <https://github.com/Gen-R/organisation/discussions/categories/request-a-guide-offer-a-guide>
+    <https://github.com/Gen-R/guide-needed/discussions/categories/request-a-guide-offer-a-guide>
 
 2.  **Recruit participants:** Depending on the scope of the guide a volunteers
     project needs enough contributors, editors, reviewers, designers,
